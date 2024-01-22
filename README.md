@@ -1,4 +1,4 @@
-- 👋h1 Hi, I’m @PaulBertLandicho
+- 👋 Hi, I’m @PaulBertLandicho
 - 👀 I’m interested in making design sometimes
 - 🌱 I’m currently learning in IT course
 - ⚡ Fun fact : Playing any online sometimes playing sport 
