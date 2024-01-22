@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center";
 ![logo](https://www.shutterstock.com/image-photo/software-web-development-data-processing-260nw-2220434047.jpg)
 </p>
 <h1 align="center">Hi 👋, I'm Paul Bert V. Landicho</h1>
