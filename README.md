@@ -1,4 +1,6 @@
-![logo](https://www.shutterstock.com/image-photo/software-web-development-data-processing-260nw-2220434047.jpg)
+<p align="center">
+  <image src="https://www.shutterstock.com/image-photo/software-web-development-data-processing-260nw-2220434047.jpg" alt="logo">
+</p>
 <h1 align="center">Hi 👋, I'm Paul Bert V. Landicho</h1>
 <h3 align="center">A aspiring web developer.</h3>
 
